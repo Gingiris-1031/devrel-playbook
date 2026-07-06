@@ -1,0 +1,1 @@
+DevRel playbook skill — community architecture, docs strategy, events, DevRel ROI. Canonical: gingiris-skills monorepo
